@@ -1,1 +1,53 @@
-# pelis
+{
+ "estrenos": [  
+        {
+			"id": 1,
+			"title": "Gato con botas: el último deseo",
+			"year": "2022",
+			"genre": "Animado,Aventura",
+			"description": "El Gato con Botas descubre que, debido a su pasión por la aventura, ha gastado ya 8 de sus 9 vidas. Por tanto, emprende un peligroso viaje en busca del legendario Último Deseo para solicitar que le restauren las vidas que ya perdió.",
+			"poster": "https://www.lahiguera.net/cinemania/pelicula/10179/el_gato_con_botas_el_ultimo_deseo-cartel-10596.jpg"
+
+
+		},
+		{
+			"id": 2,
+			"title": "Ant-Man and The Wasp: Quantumania",
+			"year": "2023",
+			"description": "Los superhéroes Scott y Cassie Lang, Hope van Dyne y sus padres, se encuentran accidentalmente atrapados en el reino cuántico y deben enfrentarse a un nuevo enemigo, Kang el Conquistador.",
+			"poster": "https://marvelnewsdesk.com/wp-content/uploads/2023/02/Kang__scaled_800.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Black Panther: Wakanda Forever",
+			"year": "2022",
+			"description": "Tras la muerte de T'Challa, la reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje protegen Wakanda de la injerencia de las potencias mundiales.",
+			"poster": "https://www.espaciomarvelita.com/wp-content/uploads/2019/08/Black-Panther-Wakanda-Forever-4DX.jpg"
+		}
+	],	
+	"Agregadas": [  
+        {
+			"id": 1,
+			"title": "Gato con botas: el último deseo",
+			"year": "2022",
+			"description": "El Gato con Botas descubre que, debido a su pasión por la aventura, ha gastado ya 8 de sus 9 vidas. Por tanto, emprende un peligroso viaje en busca del legendario Último Deseo para solicitar que le restauren las vidas que ya perdió.",
+			"poster": "https://www.lahiguera.net/cinemania/pelicula/10179/el_gato_con_botas_el_ultimo_deseo-cartel-10596.jpg"
+
+
+		},
+		{
+			"id": 2,
+			"title": "Ant-Man and The Wasp: Quantumania",
+			"year": "2023",
+			"description": "Los superhéroes Scott y Cassie Lang, Hope van Dyne y sus padres, se encuentran accidentalmente atrapados en el reino cuántico y deben enfrentarse a un nuevo enemigo, Kang el Conquistador.",
+			"poster": "https://marvelnewsdesk.com/wp-content/uploads/2023/02/Kang__scaled_800.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Black Panther: Wakanda Forever",
+			"year": "2022",
+			"description": "Tras la muerte de T'Challa, la reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje protegen Wakanda de la injerencia de las potencias mundiales.",
+			"poster": "https://www.espaciomarvelita.com/wp-content/uploads/2019/08/Black-Panther-Wakanda-Forever-4DX.jpg"
+		}
+	]	
+}
